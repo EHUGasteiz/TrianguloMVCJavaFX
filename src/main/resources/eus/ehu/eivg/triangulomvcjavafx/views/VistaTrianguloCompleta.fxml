@@ -13,7 +13,7 @@
 <?import javafx.scene.layout.VBox?>
 
 
-<AnchorPane prefHeight="433.0" prefWidth="605.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="eus.ehu.eui.triangulomvcjavafx.controller.TrianguloGraficoCompletoController">
+<AnchorPane prefHeight="433.0" prefWidth="605.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="eus.ehu.eivg.triangulomvcjavafx.controller.TrianguloGraficoCompletoController">
    <children>
       <TitledPane collapsible="false" layoutX="14.0" layoutY="14.0" prefHeight="135.0" prefWidth="200.0" text="Datos del triangulo" AnchorPane.leftAnchor="14.0" AnchorPane.topAnchor="14.0">
          <content>

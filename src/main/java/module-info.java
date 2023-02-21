@@ -4,5 +4,6 @@ module eus.ehu.eivg.triangulomvcjavafx {
 
 
     opens eus.ehu.eivg.triangulomvcjavafx to javafx.fxml;
+    opens eus.ehu.eivg.triangulomvcjavafx.controller to javafx.fxml;
     exports eus.ehu.eivg.triangulomvcjavafx;
 }
